@@ -11,9 +11,7 @@ git add [file]: Adds a specific file to the staging area; use git add . for all 
 git commit -m "[message]": Records your staged changes with a descriptive message to the local history.
 git commit --amend: Modifies the most recent commit, useful for fixing a typo in the message or adding a forgotten file.
 git log --oneline --graph: Displays a visual representation of the commit history, essential for tracking deployment versions in pipelines. 
-DEV Community
-DEV Community
- +7
+   
 3. Branching & Merging (Collaboration)
 git branch [name]: Creates a new branch for a feature or fix.
 git checkout -b [name]: Creates and immediately switches to a new branch.
