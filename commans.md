@@ -1,6 +1,6 @@
 In DevOps, Git is the foundation for Version Control and CI/CD pipelines, managing code as the "single source of truth" for infrastructure and applications. 
 
-# 1. Core Repository Management
+#1. Core Repository Management
 git init: Initializes a new local repository in the current directory.
 git clone [url]: Creates a local copy of an existing remote repository, including its entire history.
 git remote add origin [url]: Connects your local repository to a remote server.
