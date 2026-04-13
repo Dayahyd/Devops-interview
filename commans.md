@@ -36,6 +36,4 @@ git revert [commit_id]: Creates a new commit that undoes the changes of a previo
 git reset --hard [commit_id]: Resets the current branch to a specific commit and permanently deletes all local changes.
 git clean -fd: Removes all untracked files and directories, helpful for cleaning build artifacts before a fresh run.
 git reflog: Shows a history of all Git actions, allowing you to recover deleted branches or commits. 
-LinkedIn
-LinkedIn
- +5
+   
