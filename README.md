@@ -46,7 +46,7 @@ Isolate features or experiments without breaking the main codebase.
 • Safely delete a branch: git branch -d <branch-name>
 
 
-☁️ Remote Syncing
+#### ☁️ Remote Syncing
 
 Share your local progress or retrieve changes from a platform like GitHub or GitLab.
 
