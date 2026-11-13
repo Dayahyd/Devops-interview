@@ -49,7 +49,9 @@ Isolate features or experiments without breaking the main codebase.
 ☁️ Remote Syncing
 
 Share your local progress or retrieve changes from a platform like GitHub or GitLab.
+
 • Link local repo to a remote server: git remote add origin <url>
+
 • View connected remote URLs: git remote -v
 • Download remote changes without merging: git fetch
 • Download remote changes and merge them: git pull
