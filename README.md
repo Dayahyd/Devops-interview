@@ -1,6 +1,6 @@
 Git is a distributed version control system used to track changes in source code during software development. Below is a categorized quick-reference guide to the most essential Git commands.
 
-⚙️ Setup & Configuration
+##⚙️ Setup & Configuration
 
 Before starting, set up your identifying details and initialize projects.
 • Set username: git config --global user.name "Your Name"
