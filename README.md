@@ -69,7 +69,9 @@ Review your project's timeline to understand what changed.
 • View commit history: git log
 
 • View a simplified, one-line history: git log --oneline
+
 • See details of a specific commit: git show <commit-hash>
+
 • Track who modified lines in a file: git blame <file>
 
 🛠️ Undo & Discarding Changes
