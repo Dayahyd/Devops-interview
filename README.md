@@ -1,6 +1,6 @@
 Git is a distributed version control system used to track changes in source code during software development. Below is a categorized quick-reference guide to the most essential Git commands.
 
-## ⚙️ Setup & Configuration ##
+# ⚙️ Setup & Configuration #
 
 Before starting, set up your identifying details and initialize projects.
 • Set username: git config --global user.name "Your Name"
@@ -13,7 +13,7 @@ Before starting, set up your identifying details and initialize projects.
 
 
 
-🔄 The Core Workflow (Stage & Commit)
+## 🔄 The Core Workflow (Stage & Commit)
 
 This is the daily cycle used to save progress in your local environment.
 • Check repository status: git status (shows modified, staged, or untracked files)
