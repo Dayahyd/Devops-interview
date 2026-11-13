@@ -4,16 +4,24 @@ Git is a distributed version control system used to track changes in source code
 
 Before starting, set up your identifying details and initialize projects.
 • Set username: git config --global user.name "Your Name"
+
 • Set email: git config --global user.email "your.email@example.com"
+
 • Initialize a new local repository: git init
+
 • Clone an existing repository: git clone <url>
+
+
 
 🔄 The Core Workflow (Stage & Commit)
 
 This is the daily cycle used to save progress in your local environment.
 • Check repository status: git status (shows modified, staged, or untracked files)
+
 • Stage a specific file: git add <file>
+
 • Stage all files: git add .
+
 • View file modifications: git diff (shows unstaged changes)
 • Commit staged changes: git commit -m "Your commit message"
 • Modify the last commit: git commit --amend (fixes typos or forgotten files)
