@@ -74,11 +74,17 @@ Review your project's timeline to understand what changed.
 
 • Track who modified lines in a file: git blame <file>
 
+
 🛠️ Undo & Discarding Changes
 
 Safely remove mistakes or temporarily set aside incomplete work.
+
 • Discard unstaged changes in a file: git restore <file>
+
 • Unstage a file but keep its modifications: git reset <file>
+
 • Hard reset to a specific commit (destroys changes): git reset --hard <commit-hash>
+
 • Save uncommitted work temporarily: git stash
+
 • Retrieve and apply your stashed work: git stash pop
