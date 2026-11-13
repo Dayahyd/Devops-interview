@@ -53,9 +53,14 @@ Share your local progress or retrieve changes from a platform like GitHub or Git
 • Link local repo to a remote server: git remote add origin <url>
 
 • View connected remote URLs: git remote -v
+
 • Download remote changes without merging: git fetch
+
 • Download remote changes and merge them: git pull
+
 • Upload local commits to the server: git push origin <branch-name>
+
+
 
 📜 Inspection & History
 
