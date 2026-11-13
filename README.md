@@ -34,11 +34,17 @@ This is the daily cycle used to save progress in your local environment.
 
 Isolate features or experiments without breaking the main codebase.
 • List all local branches: git branch
+
 • Create a new branch: git branch <branch-name>
+
 • Switch to a branch: git switch <branch-name> (or git checkout <branch-name>)
+
 • Create and switch to a branch instantly: git checkout -b <branch-name>
+
 • Merge a branch into your active branch: git merge <branch-name>
+
 • Safely delete a branch: git branch -d <branch-name>
+
 
 ☁️ Remote Syncing
 
