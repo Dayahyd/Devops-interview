@@ -13,7 +13,7 @@ Before starting, set up your identifying details and initialize projects.
 
 
 
-## 🔄 The Core Workflow (Stage & Commit)
+# 🔄 The Core Workflow (Stage & Commit)
 
 This is the daily cycle used to save progress in your local environment.
 • Check repository status: git status (shows modified, staged, or untracked files)
@@ -30,7 +30,7 @@ This is the daily cycle used to save progress in your local environment.
 
 
 
-### 🌿 Branching & Merging
+# 🌿 Branching & Merging
 
 Isolate features or experiments without breaking the main codebase.
 • List all local branches: git branch
@@ -46,7 +46,7 @@ Isolate features or experiments without breaking the main codebase.
 • Safely delete a branch: git branch -d <branch-name>
 
 
-#### ☁️ Remote Syncing
+# ☁️ Remote Syncing
 
 Share your local progress or retrieve changes from a platform like GitHub or GitLab.
 
@@ -62,7 +62,7 @@ Share your local progress or retrieve changes from a platform like GitHub or Git
 
 
 
-📜 Inspection & History
+# 📜 Inspection & History
 
 Review your project's timeline to understand what changed.
 
@@ -75,7 +75,7 @@ Review your project's timeline to understand what changed.
 • Track who modified lines in a file: git blame <file>
 
 
-🛠️ Undo & Discarding Changes
+# 🛠️ Undo & Discarding Changes
 
 Safely remove mistakes or temporarily set aside incomplete work.
 
