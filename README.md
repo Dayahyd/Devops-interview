@@ -30,7 +30,7 @@ This is the daily cycle used to save progress in your local environment.
 
 
 
-🌿 Branching & Merging
+### 🌿 Branching & Merging
 
 Isolate features or experiments without breaking the main codebase.
 • List all local branches: git branch
