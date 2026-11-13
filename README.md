@@ -23,8 +23,12 @@ This is the daily cycle used to save progress in your local environment.
 • Stage all files: git add .
 
 • View file modifications: git diff (shows unstaged changes)
+
 • Commit staged changes: git commit -m "Your commit message"
+
 • Modify the last commit: git commit --amend (fixes typos or forgotten files)
+
+
 
 🌿 Branching & Merging
 
